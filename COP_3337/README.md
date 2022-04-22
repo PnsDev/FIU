@@ -1,5 +1,5 @@
 
-# COP_3337 - Programming 2
+# COP 3337 - Programming 2
 
 🎓 Professor: Dr. Debra Davis
 
@@ -7,6 +7,6 @@
 
 🎯 Final Grade: 4.0
 
-### Structure
+## Structure
 
 This class was mainly composed of Zybooks, Formative (small assignments), and one main final project.
